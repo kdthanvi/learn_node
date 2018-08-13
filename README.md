@@ -6,4 +6,6 @@
 * Note : Unlike the tutorial, in my implementation I have used mongoBD running locally!
 
 #### api-00
-* slack invitation api. To run :  `node app.js`
+* slack invitation api. 
+* To run :  `node app.js`
+* To access : `localhost:3000/invite` (HTTP POST, requires {email : email_id})
