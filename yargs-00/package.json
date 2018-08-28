@@ -1,0 +1,26 @@
+{
+  "name": "yargs-00",
+  "version": "1.0.0",
+  "description": "Command line tool in node.js using yargs",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdthanvi/learn_node.git"
+  },
+  "keywords": [
+    "yargs",
+    "nodejs"
+  ],
+  "author": "karan.thanvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdthanvi/learn_node/issues"
+  },
+  "homepage": "https://github.com/kdthanvi/learn_node#readme",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
