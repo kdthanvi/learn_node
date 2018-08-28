@@ -9,3 +9,14 @@
 * slack invitation api. 
 * To run :  `node app.js`
 * To access : `localhost:3000/invite` (HTTP POST, requires {email : email_id})
+
+#### yargs-00
+* Command line tool with yargs (http://yargs.js.org/)
+* Install : `npm install yargs`
+* To Run
+```
+node notes.js add --title="mytitle" --body="mybody"
+node notes.js remove --title="mytitle"
+node notes.js read --title="mytitle"
+node notes.js list
+```
