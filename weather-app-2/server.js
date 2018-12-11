@@ -8,7 +8,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'))
 app.set('view engine', 'ejs')
 
-const apikey = '11f878d06f6c449cc63de2dcf10e60eb';
+const apikey = 'XXXXXXXXXX';
 
 app.get('/', (req, res) => {
     res.render('index');
